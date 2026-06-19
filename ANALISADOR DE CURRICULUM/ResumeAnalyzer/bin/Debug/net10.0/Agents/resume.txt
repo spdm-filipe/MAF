@@ -1,0 +1,16 @@
+Nome: Carlos Henrique Souza
+Email: carlos.souza@email.com
+LinkedIn: (não informado)
+GitHub: (não informado)
+
+Objetivo: Desenvolvedor Backend Pleno
+
+Experiências:
+- Empresa ABC (2020-2023): Desenvolvi sistemas. Trabalhei com banco de dados.
+- Empresa XYZ (2023-atual): Faço manutenção de sistemas legados em PHP.
+
+Habilidades: C#, .NET, SQL, PHP, JavaScript
+
+Formação: Análise e Desenvolvimento de Sistemas - FATEC (2019)
+
+Cursos: Curso online de C# (40h)

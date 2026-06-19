@@ -1,0 +1,65 @@
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+
+namespace SistemaLegado.Services
+{
+    // 1. Violação de Design: Classe faz tudo (God Class)
+    // 2. Não utiliza Injeção de Dependência
+    public class CustomerService
+    {
+        // 3. Segurança: Credenciais expostas no código (Hardcoded)
+        private string _connectionString = "Server=myServerAddress;Database=myDataBase;User Id=admin;Password=123456;Secure=false;";
+
+        public void ProcessCustomer(int id)
+        {
+            // 4. Performance: Uso de IO síncrono em vez de async/await
+            // 5. Segurança: Risco de SQL Injection
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                connection.Open();
+                var sql = "SELECT * FROM Customers WHERE Id = " + id; 
+                var command = new SqlCommand(sql, connection);
+                var reader = command.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    Console.WriteLine(reader["Name"].ToString());
+                }
+            }
+        }
+
+        // 6. Código Obsoleto: Uso de List.ForEach e falta de LINQ moderno
+        // 7. Má prática: Retornar tipos concretos em vez de interfaces
+        public List<string> GetBadNames(List<string> names)
+        {
+            var result = new List<string>();
+            foreach (var name in names)
+            {
+                if (name != null)
+                {
+                    // 8. Performance: Alocação de string desnecessária em loop
+                    if (name.ToUpper().Trim() == "TESTE")
+                    {
+                        result.Add(name);
+                    }
+                }
+            }
+            return result;
+        }
+
+        // 9. Gestão de Erros: Try-Catch vazio (Pokemon Exception Handling)
+        public void SaveLog(string msg)
+        {
+            try
+            {
+                System.IO.File.WriteAllText("c:\\temp\\log.txt", msg);
+            }
+            catch (Exception ex)
+            {
+                // Silenciando o erro
+            }
+        }
+    }
+}
