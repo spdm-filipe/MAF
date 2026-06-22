@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj": {}
+    "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj": {
+    "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj",
+        "projectUniqueName": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj",
         "projectName": "analisando_imagens",
-        "projectPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj",
+        "projectPath": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj",
         "packagesPath": "C:\\Users\\filipe.chaves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\obj\\",
+        "outputPath": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
