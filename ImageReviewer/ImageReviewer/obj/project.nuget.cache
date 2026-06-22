@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jaLrnrxlwIY=",
+  "dgSpecHash": "bQHHJv3jpdc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ImageReviewer\\ImageReviewer\\ImageReviewer.csproj",
+  "projectFilePath": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ImageReviewer\\ImageReviewer\\ImageReviewer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filipe.chaves\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512",
     "C:\\Users\\filipe.chaves\\.nuget\\packages\\microsoft.agents.ai\\1.10.0\\microsoft.agents.ai.1.10.0.nupkg.sha512",
