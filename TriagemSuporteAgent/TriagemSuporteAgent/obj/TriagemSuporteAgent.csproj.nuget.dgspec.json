@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj": {}
+    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\TriagemSuporteAgent\\TriagemSuporteAgent\\TriagemSuporteAgent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj": {
+    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\TriagemSuporteAgent\\TriagemSuporteAgent\\TriagemSuporteAgent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj",
-        "projectName": "analisando_imagens",
-        "projectPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\analisando_imagens.csproj",
+        "projectUniqueName": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\TriagemSuporteAgent\\TriagemSuporteAgent\\TriagemSuporteAgent.csproj",
+        "projectName": "TriagemSuporteAgent",
+        "projectPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\TriagemSuporteAgent\\TriagemSuporteAgent\\TriagemSuporteAgent.csproj",
         "packagesPath": "C:\\Users\\filipe.chaves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\ANALISANDO_IMAGEM\\analisando_imagens\\obj\\",
+        "outputPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\TriagemSuporteAgent\\TriagemSuporteAgent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,14 +58,6 @@
             "Microsoft.Agents.AI": {
               "target": "Package",
               "version": "[1.10.0, )"
-            },
-            "Microsoft.Agents.AI.OpenAI": {
-              "target": "Package",
-              "version": "[1.1.0, )"
-            },
-            "Microsoft.Extensions.Configuration.UserSecrets": {
-              "target": "Package",
-              "version": "[10.0.6, )"
             },
             "OllamaSharp": {
               "target": "Package",
