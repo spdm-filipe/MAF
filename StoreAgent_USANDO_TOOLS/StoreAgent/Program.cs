@@ -16,7 +16,7 @@ var chatClient = new OllamaApiClient(new Uri("http://localhost:11434"), "llama3.
         ]);
 
 //var result = await chatClient.RunAsync("Qual o preço do notebook gamer e tem em estoque?");
-var result = await chatClient.RunAsync("Quais periféricos vocês têm? O teclado mecânico tem em estoque?");
+var result = await chatClient.RunAsync("Quais periféricos vocês têm? O mouse sem fio tem em estoque?");
 Console.WriteLine(result);
 
 [Description("Retorna o preço de um produto pelo nome.")]

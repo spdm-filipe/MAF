@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fluxo_de_aprovacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531b65de5d26da7097102414841f2fea4c2249a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+757cc9a3b358067885a7ba80847970ffdf129b22")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fluxo_de_aprovacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fluxo_de_aprovacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

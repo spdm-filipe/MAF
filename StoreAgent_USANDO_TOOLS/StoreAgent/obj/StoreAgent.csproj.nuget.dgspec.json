@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj": {}
+    "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj": {
+    "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj",
+        "projectUniqueName": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj",
         "projectName": "StoreAgent",
-        "projectPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj",
+        "projectPath": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\StoreAgent.csproj",
         "packagesPath": "C:\\Users\\filipe.chaves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\obj\\",
+        "outputPath": "c:\\Users\\filipe.chaves\\source\\repos\\ESTUDO IA\\MAF\\StoreAgent_USANDO_TOOLS\\StoreAgent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
